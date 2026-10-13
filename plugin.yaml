@@ -1,0 +1,8 @@
+name: yaku-canvas
+version: 0.1.0
+description: Yaku-style infinite canvas for content research — sources on a board, wire them to a chat, generate grounded scripts. Desktop plugin + fetch/transcribe/chat backend.
+author: Pooh + Hermes
+provides_tools:
+  - yaku_add_source
+  - yaku_list_sources
+  - yaku_chat
